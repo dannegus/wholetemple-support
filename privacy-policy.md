@@ -3,7 +3,7 @@
 **Effective date:** September 28, 2025  
 **App:** WholeTemple (iOS)  
 **Developer:** Dan Negussie  
-**Contact:** 
+**Contact:** wholetemple25@gmail.com
 
 ---
 
@@ -81,4 +81,4 @@ New versions will be posted with updated effective dates and, when required, in-
 ---
 
 ## 12. Contact
-Questions or requests: dcnegus@gmail.com
+Questions or requests: wholetemple25@gmail.com
