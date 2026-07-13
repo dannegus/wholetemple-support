@@ -1,6 +1,12 @@
+---
+title: WholeTemple Privacy Policy
+permalink: /privacy/
+---
+
 # WholeTemple Privacy Policy
 
 **Effective date:** September 28, 2025  
+**Last updated:** July 13, 2026  
 **App:** WholeTemple (iOS)  
 **Developer:** Dan Negussie  
 **Contact:** wholetemple25@gmail.com
@@ -69,7 +75,7 @@ By using the app, you consent to this transfer.
 
 ## 10. Your Choices and Rights
 - **Access/Update**: update your account info in the app.  
-- **Deletion**: request deletion of your account and data by contacting **wholetemple25@gmail.com**.  
+- **Deletion**: you can permanently delete your account and all associated data directly in the app (**Settings → Account → Delete Account**), or by contacting **wholetemple25@gmail.com**.  
 - **Opt-Out**: the Tip Jar is optional; the app works fully without purchases.
 
 ---
