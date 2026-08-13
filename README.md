@@ -9,6 +9,8 @@ We’re here to support your journey of spiritual wellness, reflection, and whol
 
 If you need help with the app, have suggestions, or want to report a bug, please reach out:
 
+**Report an issue (preferred):** [Open a GitHub issue](https://github.com/dannegus/wholetemple-support/issues/new)
+
 **Email:** [wholetemple25@gmail.com](mailto:wholetemple25@gmail.com)
 
 ---
