@@ -12,6 +12,8 @@ We're here to support your journey of spiritual wellness, reflection, and wholen
 
 If you need help with the app, have suggestions, or want to report a bug, please reach out:
 
+**Report an issue (preferred):** [Open a GitHub issue](https://github.com/dannegus/wholetemple-support/issues/new)
+
 **Email:** [wholetemple25@gmail.com](mailto:wholetemple25@gmail.com)
 
 ## 🔧 Common Issues
@@ -30,4 +32,5 @@ If you need help with the app, have suggestions, or want to report a bug, please
 
 WholeTemple is a growing app built with care and intention. Your feedback and support mean the world.
 
-— Dan Negussie & the WholeTemple team
+Dan Negussie & the WholeTemple team
+
