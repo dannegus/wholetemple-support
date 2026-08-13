@@ -17,9 +17,9 @@ If you need help with the app, have suggestions, or want to report a bug, please
 
 ### 🔧 Common Issues
 
-- **Can't verify email?** Try resending from the app's settings screen.
 - **Tip Jar not working?** Ensure you're using a real device and signed into your Apple ID.
-- **Syncing problems?** Try restarting the app and verifying your internet connection.
+- **Progress not backing up?** Sync only works once your account is linked - go to Settings and tap "Back up your progress" (or check that Settings → Account shows your linked email). If you're already linked, try restarting the app and checking your connection.
+- **Health data not showing up?** Make sure you granted access in Settings → Health → Data Access & Devices → WholeTemple (iOS) or Health Connect permissions (Android), then reconnect from WholeTemple's Settings → Apple Health / Health Connect.
 
 ---
 
