@@ -1,3 +1,5 @@
 title: WholeTemple
 description: Support & Privacy for the WholeTemple app
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-redirect-from
